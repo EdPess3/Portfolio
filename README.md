@@ -1,6 +1,7 @@
 # Edoardo Pessina 
 
 #### Technical skill: Python, SQL, MATLAB
+
 ### Education 
 Enviromental engineering, Bachelor at Politecnico di Milano 
 
