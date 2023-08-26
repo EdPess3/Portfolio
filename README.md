@@ -3,7 +3,7 @@
 #### Technical skill: Python, SQL, MATLAB
 
 ### Education 
-Enviromental engineering, Bachelor at Politecnico di Milano 
+- Laurea Triennale: Ingegneria dell'ambiente e del territorio
 
 ### Work Experience 
 City ​​councilor of Sant'Agata Fossili
