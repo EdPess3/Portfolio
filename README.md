@@ -1,7 +1,7 @@
-# Enviromental Engineering
+# Edoardo Pessina 
 
 ### Education 
-Engineering, Bachelor
+Enviromental engineering, Bachelor at Politecnico di Milano 
 
 ### Work Experience 
 City ​​councilor of Sant'Agata Fossili
