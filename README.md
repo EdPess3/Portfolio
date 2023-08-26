@@ -4,7 +4,7 @@
 Engineering, Bachelor
 
 ### Work Experience 
-City ​​councilor of Sant'Agata Fossili
+City ​​councilor of Sant'Agata Fossili;
 Astrophotographer
 
 ### Project
