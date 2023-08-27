@@ -12,5 +12,5 @@
 - Project 1
 - Project 2
 
-### Hobbies 
+### Passioni 
 Astrofotografo 
