@@ -6,11 +6,11 @@
 - Laurea Triennale: Ingegneria dell'ambiente e del territorio
 
 ### Work Experience 
-City ​​councilor of Sant'Agata Fossili
+- Consigliere comunale di Sant'Agata Fossili
 
 ### Project
 - Project 1
 - Project 2
 
 ### Hobbies 
-Astrophotographer
+Astrofotografo 
