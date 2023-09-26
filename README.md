@@ -13,4 +13,5 @@
 - Project 2
 
 ### Passioni 
-Astrofotografo 
+Astrofotografia 
+Musica 
