@@ -12,6 +12,6 @@
 - Project 1
 - Project 2
 
-### Passioni 
-Astrofotografia 
-Musica 
+### Interest 
+Astrophotography  
+Classical Music
